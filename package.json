@@ -1,0 +1,26 @@
+{
+  "name": "hurlio33-palindrome",
+  "version": "0.1.0",
+  "description": "palindrome detector",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hurlio33/palindrome.git"
+  },
+  "keywords": [
+    "palindrome",
+    "javascript"
+  ],
+  "author": "Jeremy Hurley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hurlio33/palindrome/issues"
+  },
+  "homepage": "https://github.com/hurlio33/palindrome#readme",
+  "dependencies": {
+    "mhartl-palindrome": "^0.1.0"
+  }
+}
